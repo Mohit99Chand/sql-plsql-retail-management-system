@@ -1,2 +1,2 @@
 # sql-plsql-retail-management-system
-A learning project for better uinderstanding of sql
+A sql project based learning  for better understanding of postgres via ubuntu terminal
